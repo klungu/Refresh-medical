@@ -1,0 +1,2 @@
+$ git config [--local | --global] user.email "kilby.lungu@genderfiles.org"
+$ git config [--local | --global] user.name "klungu"
